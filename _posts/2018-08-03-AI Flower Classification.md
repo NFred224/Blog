@@ -18,6 +18,7 @@ dfgdfgdfgd!
 ![child2.jpg]({{site.baseurl}}/images/posts/child2.jpg)
 
 why does this text dissapear
+
 fdgdfg
 
 
