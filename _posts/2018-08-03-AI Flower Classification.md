@@ -12,6 +12,8 @@ tags:
 
 Data Science and Artificial Intelligence have received massive attention lately, with Big Data being touted as the solution to challenges in education, healthcare, marketing and anything under the sun. Practical applications are emerging such as mobile apps which can be used to diagnose illness more accurately than a real-life physician. 
 
+<!--more-->
+
 ### What could this be?
 
 
