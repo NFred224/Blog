@@ -1,7 +1,7 @@
 ---
 published: true
 layout: post
-date: {}
+date: 2018-03-08T00:00:00.000Z
 banner_image: child.jpg
 tags:
   - web design
