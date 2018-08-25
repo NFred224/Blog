@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Graphic Designer On The Roads again
+title: Graphic Designer On The Road
 date: {}
 banner_image: road.jpg
 tags:
