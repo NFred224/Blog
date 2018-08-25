@@ -2,7 +2,7 @@
 layout: post
 title: How to Set Up Your New iPhone 6 the Right Way
 date: 2016-03-02T00:00:00.000Z
-banner_image: goodmorning2.jpg
+banner_image: goodmorning2.png
 tags:
   - tips
   - tech
