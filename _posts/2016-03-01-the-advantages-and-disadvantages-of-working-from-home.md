@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Advantages & Disadvantages of Working from Home
-date: 2016-03-01T00:00:00.000Z
+date: {}
 banner_image: goodmorning2.jpg
 tags:
   - tips
