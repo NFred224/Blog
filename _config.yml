@@ -72,8 +72,6 @@ plugins: [jekyll-paginate]
 permalink: pretty
 markdown: kramdown
 kramdown:
-	# Use GitHub flavored markdown, including triple backtick fenced code blocks
-    
     auto_ids: false
    
    
