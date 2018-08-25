@@ -1,5 +1,11 @@
 ---
 published: false
+layout: post
+date: 2018-08-25T00:00:00.000Z
+banner_image: road.jpg
+tags:
+  - web design
+  - blogging
 ---
 ## A New Post
 test
