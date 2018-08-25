@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Graphic Designer On The Road
-date: {}
+date: 2018-03-19T00:00:00.000Z
 banner_image: road.jpg
 tags:
   - web design
