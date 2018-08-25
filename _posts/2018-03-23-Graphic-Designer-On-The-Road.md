@@ -2,7 +2,7 @@
 layout: post
 title: Graphic Designer On The Road
 date: 2018-03-19T00:00:00.000Z
-banner_image: road.jpg
+banner_image: homefromgymBWS.jpg
 tags:
   - web design
   - blogging
