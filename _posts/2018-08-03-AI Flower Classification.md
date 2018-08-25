@@ -1,7 +1,7 @@
 ---
 published: true
 layout: post
-date: 2018-08-25T00:00:00.000Z
+date: {}
 banner_image: child.jpg
 tags:
   - web design
@@ -13,6 +13,7 @@ fdgfdg
 dfgdfgfdgfdgdf
 dfgdfgdfgf
 
-dfgdfgdfgd
+dfgdfgdfgd![child2.jpg]({{site.baseurl}}/images/posts/child2.jpg)
+
 
 Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
