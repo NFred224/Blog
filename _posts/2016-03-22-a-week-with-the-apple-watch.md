@@ -2,7 +2,7 @@
 layout: post
 title: 'Review: A Week With the Apple Watch'
 date: 2016-03-22T00:00:00.000Z
-banner_image: homefromgymBW.jpg
+banner_image: homefromgym2.jpg
 tags:
   - minimal
   - tech
