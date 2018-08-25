@@ -1,7 +1,7 @@
 ---
 published: true
 layout: post
-date: 2018-08-03T00:00:00.000Z
+date: {}
 banner_image: child.jpg
 tags:
   - web design
@@ -9,11 +9,12 @@ tags:
 ---
 ## AI for flower classification
 
-fdgfdg
-dfgdfgfdgfdgdf
-dfgdfgdfgf
 
-dfgdfgdfgd!
+Data Science and Artificial Intelligence have received massive attention lately, with Big Data being touted as the solution to challenges in education, healthcare, marketing and anything under the sun. Practical applications are emerging such as mobile apps which can be used to diagnose illness more accurately than a real-life physician.
+
+### What is this?
+
+
 
 ![child2.jpg]({{site.baseurl}}/images/posts/child2.jpg)
 
