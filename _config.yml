@@ -72,4 +72,7 @@ plugins: [jekyll-paginate]
 permalink: pretty
 markdown: kramdown
 kramdown:
-    auto_ids: false
+    auto_ids: true
+   
+   
+post_images_root: http://litomisky.com/klog-jekyll/img/posts
