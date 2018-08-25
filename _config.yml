@@ -72,7 +72,9 @@ plugins: [jekyll-paginate]
 permalink: pretty
 markdown: kramdown
 kramdown:
-    auto_ids: true
+	# Use GitHub flavored markdown, including triple backtick fenced code blocks
+    input: GFM
+    auto_ids: false
    
    
 post_images_root: http://litomisky.com/klog-jekyll/img/posts
