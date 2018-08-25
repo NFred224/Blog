@@ -2,10 +2,11 @@
 layout: page
 title: About this blog
 description: An optional about page for BlogInn Jekyll theme
-banner_image: aboutPage.jpg
+banner_image: GoodMorning.jpg
+published: true
 ---
 
-**John Doe** is a Senior Art Director from [Vilnius](https://en.wikipedia.org/wiki/Vilnius), Lithuania. After graduating from The College of Visual Arts with a degree in Communication Design, he worked for three small graphic design shops where he honed his design style and sensibility.
+**Fred Nilsen** is a bla bla [Sarpsborg](https://en.wikipedia.org/wiki/Sarpsborg), Norway. After graduating from UQ BLA with a degree in Communication Design, he worked for three small graphic design shops where he honed his design style and sensibility.
 
 His work has been recognized by Communication Arts, Print, How, ID, IdN, AIGA, Effie, Archive, Graphis, AdFed and Rockport. Graphic Design USA named him a person to watch in 2015.
 
