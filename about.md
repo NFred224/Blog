@@ -2,7 +2,7 @@
 layout: page
 title: About this blog
 description: An optional about page for BlogInn Jekyll theme
-banner_image: fredBW.jpg
+banner_image: goodmorning2.jpg
 published: true
 ---
 
