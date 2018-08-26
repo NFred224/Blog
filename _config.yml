@@ -31,8 +31,8 @@ navigation:
   url: /about/
 - text: Projects
   url: /projects/
-- text: Credentials
-  url: /credentials/
+- text: NF
+  url: /NF/
 - text: Publications
   url: /publications/
 - text: Archives
